@@ -15,6 +15,7 @@ html {
 h1 { 
   font-size: 2.0rem;
   text-transform:uppercase;
+  line-height: 20px;
 }
 
 .author {
@@ -26,12 +27,19 @@ h1 {
 .quote {
   font-size: 1.5rem;
   color: #fffffe;
+  line-height: 15px;
+  margin-bottom: 5px
+}
+
+.qimage{
+   border-radius: 20px 20px 0px 0px;
 }
 
 .qtext{
   background-color: #3da9fc;
  border-radius: 0px 0px 20px 20px;
   color: #fffffe;
+  padding: 10px 15px;
 }
 
  
