@@ -27,6 +27,9 @@ h1 {
 
 .qtext{
   background-color: #3da9fc;
+  max-width: 400px;
+  max-height: 300px;
+  
 }
 
  
