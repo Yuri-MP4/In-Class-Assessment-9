@@ -21,12 +21,10 @@ h1 {
 .author {
    font-style: italic;
   font-weight: bold;
-  color: #fffffe;
 }
 
 .quote {
   font-size: 1.5rem;
-  color: #fffffe;
   line-height: 35px;
   margin-bottom: 5px;
 }
@@ -44,6 +42,7 @@ h1 {
   padding: 10px 15px;
   height: auto;
   width: 400px;
+  text-align: center;
 }
 
  
