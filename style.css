@@ -30,7 +30,8 @@ h1 {
 }
 
 .qimage {
-  width: 400px; 
+  width: 300px; 
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -47,11 +48,12 @@ img {
    border-radius: 0px 0px 20px 20px;
   padding: 10px 15px;
   height: auto;
-  width: 400px;
+  width: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   color: #fffffe;
+  margin-top: 0px;
 }
 
  
