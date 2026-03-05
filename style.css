@@ -10,7 +10,10 @@ html {
   margin: 30px;
   background-color: #272343;
   text-align: center;
-  box-sizing: border-box; 
+}
+
+main {
+ box-sizing: border-box;  
 }
 
 h1 { 
@@ -57,6 +60,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 0px
 }
 
  
