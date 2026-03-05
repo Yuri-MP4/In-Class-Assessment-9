@@ -10,6 +10,7 @@ html {
   margin: 30px;
   background-color: #272343;
   text-align: center;
+  box-sizing: border-box; 
 }
 
 h1 { 
@@ -31,7 +32,7 @@ h1 {
 
 .qimage {
   width: 400px; 
-  height: 400px;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
