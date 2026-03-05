@@ -16,17 +16,20 @@ h1 {
   font-size: 2.0rem;
   text-transform:uppercase;
   line-height: 70px;
+  color: #20b2aa;
 }
 
 .author {
    font-style: italic;
   font-weight: bold;
+  color: #fffffe;
 }
 
 .quote {
   font-size: 1.5rem;
   line-height: 35px;
   margin-bottom: 5px;
+  color: #fffffe;
 }
 
 .qimage{
@@ -42,10 +45,9 @@ img {
   border-radius: 20px 20px 0px 0px;
 }
 
-.qtext{
+.qtext {
   background-color: #3da9fc;
- border-radius: 0px 0px 20px 20px;
-  color: #fffffe;
+   border-radius: 0px 0px 20px 20px;
   padding: 10px 15px;
   height: auto;
   width: 400px;
